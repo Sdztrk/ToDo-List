@@ -1,9 +1,6 @@
-# Description
+# ToDo List
 
-ToDo List
-
-## Student Registration
-
+## Description
 I used HTML, CSS and JS to create this page.
 
 ## Overview
